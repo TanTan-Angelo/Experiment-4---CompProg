@@ -71,7 +71,7 @@ df_instru = df.loc[
 # Calculate average for all students
 df['Average'] = df[['Electronics', 'GEAS', 'Math', 'Communication']].mean(axis=1)
 
-# Filter for Mindanao female students
+# Picking out Mindanao female students
 df_mindy = df.loc[
     (df['Average'] >= 55) & 
     (df['Gender'] == 'Female') & 
