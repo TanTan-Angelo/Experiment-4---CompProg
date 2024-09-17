@@ -44,7 +44,8 @@ Analyze how **track**, **gender**, and **hometown** influence average grades usi
 To execute the Python scripts for data wrangling/visualization, follow these steps:
 
 1. **Clone the repository**:
-   git clone https://github.com/TanTan-Angelo/Experiment-4---CompProg/blob/main/Tan_EXPERIMENT%204%20-%20Data%20Wrangling%20and%20Data%20Visualization.ipynb
+   git clone [Data Wrangling and Visualization Notebook](https://github.com/TanTan-Angelo/Experiment-4---CompProg/blob/main/Tan_EXPERIMENT%204%20-%20Data%20Wrangling%20and%20Data%20Visualization.ipynb)
+
 
 2. **Install Dependencies**:
    pip install pandas matplotlib seaborn
