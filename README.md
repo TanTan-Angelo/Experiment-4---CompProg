@@ -2,7 +2,7 @@
 
 **Author**: Chance Angelo Tan
 
-Welcome to the **ECE Board Exam Problem** project, where we leverage Python for data wrangling and visualization. This repository houses the code that cleans, processes, and visualizes data to uncover insights into how factors like **track**, **gender**, and **hometown** influence the **average grade**. Dive in and explore the power of data! 🚀
+Welcome to the **ECE Board Exam Problem** project, where we leverage Python for data wrangling and visualization. This repository containss the code that cleans, processes, and visualizes data to uncover new found knwledge into how factors like **track**, **gender**, and **hometown** influence the **average grade**. Dive in and explore the power of data! 🚀
 
 ---
 
